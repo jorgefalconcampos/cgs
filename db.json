@@ -21,7 +21,6 @@
         "phone": "222-222-222",
         "fax": "222-222-222",
         "address": "6713 Palo Alto",
-        "address2": "",
         "city": "Los Angeles",
         "state": "CA",
         "country": "US",
@@ -44,10 +43,10 @@
       },
       {
         "id": "999",
-        "name": "K Nine",
-        "email": "k9@caplugs.com",
-        "phone": "999-999-999",
-        "fax": "999-999-999",
+        "name": "Nancy M",
+        "email": "nancy9@caplugs.com",
+        "phone": "555-666-777",
+        "fax": "551-662-773",
         "address": "99 Av. Maruchan",
         "address2": "",
         "city": "Palo Alto",
@@ -61,14 +60,29 @@
         "name": "Juan Puga",
         "email": "jsmith@caplugs.com",
         "phone": "555-555-5555",
-        "fax": "555-555-5555",
         "address": "2150 Juan Avenue",
         "address2": "",
         "city": "Buffalo",
-        "state": "NY",
         "country": "US",
         "postalCode": "14207",
         "website": "www.juancaplugs.com"
+      },
+      {
+        "id": "888",
+        "name": "Eighty Eight",
+        "email": "ee@caplugs.com",
+        "address": "88 Av. Maruchan",
+        "city": "SoHo",
+        "state": "NY",
+        "country": "US",
+        "website": "www.k9-caplugs.com"
+      },
+      {
+        "id": "369",
+        "name": "Ermenegildo Zegna",
+        "phone": "8080-8080-8080",
+        "country": "US",
+        "website": "www.ez.com"
       }
     ],
     "postalCodes": [
@@ -97,10 +111,14 @@
         "salesRepId": "456"
       },
       {
-        "postalCode": "14207",
-        "salesRepId": "1234"
+        "postalCode": "1320",
+        "salesRepId": "999"
       },
       {
+        "postalCode": "75216",
+        "salesRepId": "999"
+      },
+       {
         "postalCode": "75216",
         "salesRepId": "999"
       }
