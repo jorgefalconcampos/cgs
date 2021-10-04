@@ -59,22 +59,21 @@
     ],
     "postalCodes": [
       {
-        "postalCode": "45555",
+        "postalCode": "14207",
         "salesRepId": "123"
       },
       {
         "postalCode": "12345",
+        "salesRepId": "123"
+      },
+      {
+        "postalCode": "45678",
         "salesRepId": "456"
       },
 
       {
-        "postalCode": "45678",
+        "postalCode": "14207",
         "salesRepId": "1234"
-      },
-
-      {
-        "postalCode": "0067892",
-        "salesRepId": "foo456"
       }
     ]
   }
