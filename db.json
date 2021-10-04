@@ -43,6 +43,33 @@
         "website": "www.igorcaplugs.com"
       },
       {
+        "id": "999",
+        "name": "K Nine",
+        "email": "k9@caplugs.com",
+        "phone": "999-999-999",
+        "fax": "999-999-999",
+        "address": "99 Av. Maruchan",
+        "address2": "",
+        "city": "Palo Alto",
+        "state": "CA",
+        "country": "US",
+        "postalCode": "75216",
+        "website": "www.k9-caplugs.com"
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
         "id": "8654",
         "name": "Juan Puga",
         "email": "jsmith@caplugs.com",
@@ -63,17 +90,32 @@
         "salesRepId": "123"
       },
       {
+        "postalCode": "1234",
+        "salesRepId": "123"
+      },
+      {
         "postalCode": "12345",
         "salesRepId": "123"
+      },
+      {
+        "postalCode": "456789",
+        "salesRepId": "456"
       },
       {
         "postalCode": "45678",
         "salesRepId": "456"
       },
-
+      {
+        "postalCode": "45555",
+        "salesRepId": "456"
+      },
       {
         "postalCode": "14207",
         "salesRepId": "1234"
+      },
+      {
+        "postalCode": "75216",
+        "salesRepId": "999"
       }
     ]
   }
