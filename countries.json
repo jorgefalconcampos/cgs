@@ -1,0 +1,81 @@
+{
+    "salesReps": [
+      {
+        "id": "123",
+        "name": "John Smith (USA)",
+        "email": "jsmith@caplugs.com",
+        "phone": "555-555-5555",
+        "fax": "555-555-5555",
+        "address": "2150 Elmwood Avenue",
+        "address2": "",
+        "city": "Buffalo",
+        "state": "NY",
+        "country": "US",
+        "postalCode": "14207",
+        "website": "www.caplugs.com"
+      },
+      {
+        "id": "456",
+        "name": "Pepe Campa (USA)",
+        "email": "pcampa@caplugs.com",
+        "phone": "222-222-222",
+        "fax": "222-222-222",
+        "address": "6713 Palo Alto",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US",
+        "postalCode": "54211",
+        "website": "www.caplugs.com"
+      },
+      {
+        "id": "1234",
+        "name": "Igor",
+        "email": "jsmith@caplugs.com",
+        "phone": "555-555-5555",
+        "fax": "555-555-5555",
+        "address": "2150 Igor Av",
+        "address2": "",
+        "city": "Buffalo",
+        "state": "NY",
+        "country": "US",
+        "postalCode": "14207",
+        "website": "www.igorcaplugs.com"
+      },
+      {
+        "id": "8654",
+        "name": "Juan Puga",
+        "email": "jsmith@caplugs.com",
+        "phone": "555-555-5555",
+        "fax": "555-555-5555",
+        "address": "2150 Juan Avenue",
+        "address2": "",
+        "city": "Buffalo",
+        "state": "NY",
+        "country": "US",
+        "postalCode": "14207",
+        "website": "www.juancaplugs.com"
+      }
+    ],
+    "postalCodes": [
+      {
+        "postalCode": "45555",
+        "salesRepId": "123"
+      },
+      {
+        "postalCode": "12345",
+        "salesRepId": "456"
+      },
+
+      {
+        "postalCode": "45678",
+        "salesRepId": "1234"
+      },
+
+      {
+        "postalCode": "0067892",
+        "salesRepId": "foo456"
+      }
+    ]
+  }
+  
