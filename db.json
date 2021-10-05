@@ -163,6 +163,10 @@
       {
         "postalCode": "8888",
         "salesRepId": "888"
+      },
+      {
+        "postalCode": "220",
+        "salesRepId": "222"
       }
     ]
   }
