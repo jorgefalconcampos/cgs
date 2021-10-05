@@ -68,6 +68,16 @@
         "website": "www.juancaplugs.com"
       },
       {
+        "id": "7890",
+        "name": "Lalo F",
+        "email": "lf@caplugs.com",
+        "phone": "555-555-5555",
+        "city": "Buffalo",
+        "country": "US",
+        "postalCode": "7754",
+        "website": "www.juancaplugs.com"
+      },
+      {
         "id": "888",
         "name": "Eighty Eight",
         "email": "ee@caplugs.com",
@@ -76,6 +86,22 @@
         "state": "NY",
         "country": "US",
         "website": "www.k9-caplugs.com"
+      },
+      {
+        "id": "444",
+        "name": "Cassandra C",
+        "email": "ee@caplugs.com",
+        "city": "Queens",
+        "state": "NY",
+        "website": "www.k9-caplugs.com"
+      },
+      {
+        "id": "222",
+        "name": "Philip S",
+        "address": "115 Buckeye Redd",
+        "postalCode": "85034",
+        "state": "AZ",
+        "website": "www.philip-caplugs.com"
       },
       {
         "id": "369",
@@ -119,12 +145,20 @@
         "salesRepId": "999"
       },
       {
-        "postalCode": "75216",
+        "postalCode": "9631",
         "salesRepId": "8654"
       },
       {
         "postalCode": "3690",
         "salesRepId": "369"
+      },
+      {
+        "postalCode": "4321",
+        "salesRepId": "444"
+      },
+      {
+        "postalCode": "5678",
+        "salesRepId": "7890"
       },
       {
         "postalCode": "8888",
