@@ -2583,6 +2583,18 @@
         "salesRepId": "1"
       },
       {
+         "postalCode":"59001",
+         "salesRepId":"23"
+      },
+      {
+         "postalCode":"59002",
+         "salesRepId":"23"
+      },
+      {
+         "postalCode":"59003",
+         "salesRepId":"23"
+      },
+      {
         "postalCode": "1234",
         "salesRepId": "1"
       },
